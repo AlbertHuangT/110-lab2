@@ -6,5 +6,3 @@ export function printSongs(): void {
         console.log(`- ${song}`);
     }
 }
-
-printSongs();
