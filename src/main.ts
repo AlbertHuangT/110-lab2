@@ -3,6 +3,7 @@ import { printSnacks } from "./snacks";
 
 function main(): void {
     printSongs();
+
     printSnacks();
 }
 
