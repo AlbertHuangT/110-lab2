@@ -1,5 +1,5 @@
 import { partyAnimation } from "./animation";
-export const snacks: string[] = ["cookies", "granola"];
+export const snacks: string[] = ["chips", "cookies", "granola", "pretzels", "popcorn", "candy"];
 
 export function printSnacks(): void {
     partyAnimation("Snacks");
