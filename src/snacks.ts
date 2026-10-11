@@ -6,5 +6,3 @@ export function printSnacks(): void {
         console.log(`- ${snack}`);
     }
 }
-
-printSnacks();
